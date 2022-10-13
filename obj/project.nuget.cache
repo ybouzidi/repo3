@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "14JfGmptUp7qL+urObPDmvuB4HvUstDdLYCbyvlL6n2KOYfPnhtIhx01yfoy+XKNpYgp5Q1idAa43yFb/VJANA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yakbz\\Desktop\\git\\gitApi\\gitApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yakbz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
