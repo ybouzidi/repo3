@@ -16,6 +16,7 @@ namespace gitApi
     public class Startup
     {
         int i = 0;
+        int j = 10;
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
